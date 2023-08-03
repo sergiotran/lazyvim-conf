@@ -1,6 +1,6 @@
 return {
-  { "bluz71/vim-moonfly-colors" },
+  { "tomasiser/vim-code-dark" },
   { "LazyVim/LazyVim", opts = {
-    colorscheme = "moonfly",
+    colorscheme = "codedark",
   } },
 }
