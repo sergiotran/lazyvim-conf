@@ -7,5 +7,6 @@ local global = vim.g
 
 opt.relativenumber = false
 opt.number = true
+opt.clipboard = "unnamedplus"
 
-global.python3_host_prog = "/usr/bin/python3"
+global.python3_host_prog = "/home/linuxbrew/.linuxbrew/bin/python3"

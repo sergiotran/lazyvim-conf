@@ -1,9 +1,6 @@
 return {
-  { "Mofiqul/vscode.nvim" },
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "vscode",
-    },
-  },
+  { "bluz71/vim-moonfly-colors" },
+  { "LazyVim/LazyVim", opts = {
+    colorscheme = "moonfly",
+  } },
 }
